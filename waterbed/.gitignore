@@ -75,3 +75,6 @@ crashlytics-build.properties
 
 # Text Mesh Pro
 /Assets/TextMesh Pro/Examples & Extras*
+
+# Temp Player Assets
+/Assets/Hero Knight - Pixel Art*
